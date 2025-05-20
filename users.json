@@ -1,0 +1,22 @@
+{
+    "isd": {
+        "password": "$2y$10$qc3wHLVKGyFUzHjLi0QGWeyYPu2\/lDQTm7AOYLi92.IQtrj1i8FcO",
+        "role": "admin"
+    },
+    "jp": {
+        "password": "$2y$10$1G96kTXG5ONl50nQkgDmAO5amDVYPV3fFtZDFF57.QA\/7fddsWmuK",
+        "role": "user"
+    },
+    "jm": {
+        "password": "$2y$10$c3EQfet87FqdiJRTgV8B9uLKeGIEBeiI551yPE6mYOQNI8oZzdo.K",
+        "role": "user"
+    },
+    "ca": {
+        "password": "$2y$10$J8x5CMEq5ZpauQ14SdsRc.OiiupZkeQZ1Tu5d9otupZjX2rzWSg\/2",
+        "role": "user"
+    },
+    "kiew": {
+        "password": "$2y$10$2D1nS5JvDNo1NGTRBROiUOQlH5ihpM8PT8nnO6pZ\/gwsFhX4NUKci",
+        "role": "user"
+    }
+}
